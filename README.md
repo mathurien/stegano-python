@@ -1,6 +1,6 @@
 # stegano-python
 comment utiliser :
-il existe 4 paramètres : \n
+il existe 4 paramètres : 
   -e  (encode, génère l'image "encoded-image.png")
   -d  (decode, affiche le texte)
   -ef  (encode from file, génère l'image "encode-image.png")
